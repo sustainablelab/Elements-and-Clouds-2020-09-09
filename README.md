@@ -1,8 +1,7 @@
 # Experiment with Elements and µBursts 2020-09-09
 
 ![setup](setup.jpg)
-
-<a href="http://yourlisten.com/mattable/elements-and-clouds-2020-09-09" id="yl17801207">Listen to experiment with Elements and Clouds Parasites (uBursts) 2020-09-09</a><script src="http://yourlisten.com/embed.js?17801207" type="text/javascript" async></script>
+[Listen to experiment with Elements and Clouds Parasites (uBursts) 2020-09-09](http://yourlisten.com/mattable/elements-and-clouds-2020-09-09)
 
 # Setup
 
@@ -77,4 +76,3 @@
 
 # Export mp3
 - [x] upload to YourListen
-    - <http://yourlisten.com/mattable/elements-and-clouds-2020-09-09>
